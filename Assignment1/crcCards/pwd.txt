@@ -1,0 +1,8 @@
+Class Name: PrintWorkingDirecotory
+Parent class: ListContents
+Subclasses: None
+
+Responsibilities:
+*Print the folders from root to the current directory the user is in.
+Collaborators: 
+*None

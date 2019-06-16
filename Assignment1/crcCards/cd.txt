@@ -1,0 +1,14 @@
+Class Name: ChangeDirectory
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+*Changes the directory that the user applies commands to.
+*.. as an argument after the command represents the parent directory.
+*. as an argument after the command represents the current directory.
+*The directory separator is a forward slash(/).
+*The root of the file system is one forward slash(/).
+*Returns an error if the DIR specified cannot be found
+*Returns an error if no directory is specified.
+Collaborators: 
+*ListContents

@@ -1,0 +1,11 @@
+Class name: Get
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Retrieves a file with the parameter URL from a web address
+*Adds the file to the the current working directory
+*Returns an error if the URL does not exist
+*Returns an error if there isn't one parameter (URL)
+Collaborators:
+*Copy

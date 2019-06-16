@@ -1,0 +1,25 @@
+Class Name: JShell
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+*Recieves input from user.
+*Checks if input is a valid command with valid number of arguments.
+*Returns error "Invalid input, please try again" if the command is not
+recognized or the number of arguments dont match the command requirement.
+*To shut down the terminal.
+*Returns an error if an argument is inserted
+
+Collaborators: 
+*cat
+*cp
+*mv
+*echoAppend
+*echoNew
+*get
+*ls
+*cd
+*mkdir
+*ls
+*pwd
+

@@ -1,0 +1,12 @@
+Class name: EchoNew
+Parent class (if any): None
+Subclasses (if any): EchoAppend
+
+Responsibilities:
+*Creates a new file specified by the parameter OUTFILE if it does not exist
+ in the directory
+*Puts a string specified by the parameter STRING into OUTFILE
+*If OUTFILE exists in the directory then the contents are rewritten by STRING
+*Returns an error if there are not three parameters (STRING, >, OUTFILE)
+Collaborators:
+*ListContent

@@ -1,0 +1,298 @@
++++ASSIGNMENT0 MARK DETAIL+++
+Your mark out of 10 is: [10:/10] 
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT0+++
+A    207Assignment0/src
+A    207Assignment0/src/driver
+A    207Assignment0/src/driver/CfilteringDriver.java
+A    207Assignment0/src/a0
+A    207Assignment0/src/a0/Cfiltering.java
+A    207Assignment0/input1.txt
+A    207Assignment0/input2.txt
+A    207Assignment0/test
+A    207Assignment0/test/input3.txt
+A    207Assignment0/test/input4.txt
+A    207Assignment0/test/input5.txt
+A    207Assignment0/test/input6.txt
+Checked out revision 19.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+------------------------------------------------------------------------
+r19 | leejos14@UTORONTO.CA | 2015-09-27 23:11:24 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Removed redundant variables
+------------------------------------------------------------------------
+r18 | leejos14@UTORONTO.CA | 2015-09-27 03:59:27 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Added some more comments and type contracts
+------------------------------------------------------------------------
+r17 | leejos14@UTORONTO.CA | 2015-09-27 03:49:30 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Google formatting
+------------------------------------------------------------------------
+r16 | leejos14@UTORONTO.CA | 2015-09-27 03:48:20 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Encapsulated the code for methods findAndPrintMostSimilarPaorOfUsers() and findAndPrintMostDisimilarPaorOfUsers() into the method getSimilarity()
+------------------------------------------------------------------------
+r15 | leejos14@UTORONTO.CA | 2015-09-27 02:46:10 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Added 4 test text files
+------------------------------------------------------------------------
+r14 | leejos14@UTORONTO.CA | 2015-09-27 02:32:27 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Added comments and relevant variable names
+------------------------------------------------------------------------
+r13 | leejos14@UTORONTO.CA | 2015-09-27 00:38:23 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Added comments in
+------------------------------------------------------------------------
+r12 | leejos14@UTORONTO.CA | 2015-09-27 00:23:20 -0400 (Sun, 27 Sep 2015) | 2 lines
+
+Completed the methods findAndPrintMostSimilarPairOfUsers() and findAndPrintMostDissimilarPairOfUsers()
+-Completed the assignment but needs some comments fine tuning to make the code not look like crap
+------------------------------------------------------------------------
+r11 | leejos14@UTORONTO.CA | 2015-09-26 20:52:07 -0400 (Sat, 26 Sep 2015) | 1 line
+
+Filter Driver can now populate the userMovieMatrix and the java file also calculates and prints user similarity score
+------------------------------------------------------------------------
+r10 | leejos14@UTORONTO.CA | 2015-09-26 00:35:03 -0400 (Sat, 26 Sep 2015) | 1 line
+
+Completed printUserMatrix() where the matrix is rounded to the fourth decimal place
+------------------------------------------------------------------------
+r9 | leejos14@UTORONTO.CA | 2015-09-25 23:02:51 -0400 (Fri, 25 Sep 2015) | 1 line
+
+Completed the calculateSimilarityScore method
+------------------------------------------------------------------------
+r8 | leejos14@UTORONTO.CA | 2015-09-25 22:53:47 -0400 (Fri, 25 Sep 2015) | 1 line
+
+Made getSimilarityColumn more efficient by not calling upon any of the math packages when a user rating is being compared by itself
+------------------------------------------------------------------------
+r7 | leejos14@UTORONTO.CA | 2015-09-25 22:49:16 -0400 (Fri, 25 Sep 2015) | 1 line
+
+Added in the method getSimilarityColumn which returns column of similarity scores
+------------------------------------------------------------------------
+r6 | leejos14@UTORONTO.CA | 2015-09-24 16:13:17 -0400 (Thu, 24 Sep 2015) | 1 line
+
+Added in the user credentials for the honor code
+------------------------------------------------------------------------
+r5 | leejos14@UTORONTO.CA | 2015-09-24 16:13:08 -0400 (Thu, 24 Sep 2015) | 1 line
+
+Added in the user credentials for the honor code
+------------------------------------------------------------------------
+r4 | leejos14@UTORONTO.CA | 2015-09-23 23:05:09 -0400 (Wed, 23 Sep 2015) | 1 line
+
+Completed the CFiltering constructor
+------------------------------------------------------------------------
+r3 | attarwal@UTORONTO.CA | 2015-09-21 14:23:56 -0400 (Mon, 21 Sep 2015) | 1 line
+
+Adding 207Assignment0 from instructor
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2015-09-21 14:23:55 -0400 (Mon, 21 Sep 2015) | 1 line
+
+Adding 207Assignment0 from instructor
+------------------------------------------------------------------------
+r1 | attarwal@UTORONTO.CA | 2015-09-21 14:23:54 -0400 (Mon, 21 Sep 2015) | 1 line
+
+Adding 207Assignment0 from instructor
+------------------------------------------------------------------------
+Marks Deductions here: 
+
+
+
+PART 3) +++FOLLOWING LINES ARE GREATER THAN 80 CHARACTERS+++
+Marks Deductions here: 
+
+
+
+PART 4) +++TEST FOLDER WITH TEST FILES IN IT?+++
+------------------------------------------------------------------------
+r15 | leejos14@UTORONTO.CA | 2015-09-27 02:46:10 -0400 (Sun, 27 Sep 2015) | 1 line
+
+Added 4 test text files
+------------------------------------------------------------------------
+Marks Deductions here: 
+
+
+
+PART 5) +++HONOR CODE?+++
+// **********************************************************
+// Assignment0:
+// UTOR user_name: leejos14
+// UT Student #: 101175346
+// Author: Joseph Lee
+//
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC 207 and understand the consequences.
+// *********************************************************
+package a0;
+Marks Deductions here: 
+
+
+
+PART 6) +++IDE FILES+++
+Marks Deductions here: 
+
+
+
+PART 7) +++STATIC FUNCTIONS IN YOUR CODE+++
+Marks Deductions here: 
+
+
+
+PART 8) +++COMMENTS IN cFiltering.java
+Marks Deductions here: 
+  // hold an integer of the number of users
+  // holds an integer of the number of movies
+  // used to round numbers for output values
+  // this is a 2d matrix i.e. user*movie
+  // this is a 2d matrix i.e. user*movie
+  // Default Constructor
+    // the amount of users by default is 1
+    // the amount of movies by default is 1
+    // this is 2d matrix of size 1*1
+    // this is 2d matrix of size 1*1
+    // constructs numberOfUsers
+    // construct numberOfMovies
+    // 2d matrix of size; numberOfUsers and numberOfMovies
+    // 2d matrix of size; numberOfUsers and numberofUsers
+    // Compiles all the columns for each user's similarity score
+      // Sends currentUser as an argument to be compared by other user scores
+    // The size of the matrix column will always be the same size as the
+    // numberOfUsers
+    // Loops through all users in userUserMatrix
+      // Loops through all the movie ratings for the original user and the users
+      // being compared with and calculates Euclidian distance
+        // The Euclidian distance will be zero if the current user is being
+        // compared with itself
+        // ex. currentUser = compareUser = 0, therefore they are the same
+        // If the users are not the same then the Euclidian will be calculated
+      // Calculates the similarity score
+    // Returns column of similarity scores for currentUser
+    // Prints out the similar users and score
+    // Prints out the dissimilar users and score
+    // Sets the output prefix when the user wants to get similar or dissimilar
+    // users
+    // similarUsers is used for outputting the final results
+    // similarScore stores the similarity score of the (dis)similar users
+    // Loops through the elements in userUserMatrix but only the elements
+    // contained in from the top left to the bottom right
+    // ex. For this given userUserMatrix only the digits with / in front will
+    // be cycled through
+    // [1.0000, /0.1380, /0.2171, /0.1285]
+    // [0.1380, 1.0000, /0.1827, /0.1614]
+    // [0.2171, 0.1827, 1.0000, /0.1250]
+    // [0.1285, 0.1614, 0.1250, 1.0000]
+          // This block is for calculating similar users
+            // Rewrites the previous similarity score iff the new score is
+            // higher
+            // Adds additional users that have the same similarity score
+        // This block is for calculating dissimilar users
+            // Rewrites the previous similarity score iff the new score is
+            // lower
+            // Adds additional users that have the same similarity score
+
+
+
+PART 9) +++COMPILING YOUR CODE+++
+Marks Deductions here: 
+
+
+
++++RUNNING YOUR CODE+++
+PART 10) +++RUNNING TESTCASE1+++
+Marks Deductions here: 
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+[1.0000, 1.0000, 1.0000, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are: 
+User1 and User2, 
+User1 and User3, 
+User1 and User4, 
+User2 and User3, 
+User2 and User4, 
+User3 and User4 
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are: 
+User1 and User2, 
+User1 and User3, 
+User1 and User4, 
+User2 and User3, 
+User2 and User4, 
+User3 and User4 
+with similarity score of 1.0000
+
+
+
+PART 11) +++RUNNING TESTCASE2+++
+Marks Deductions here: 
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 1.0000, 0.1006, 0.1006]
+[1.0000, 1.0000, 0.1006, 0.1006]
+[0.1006, 0.1006, 1.0000, 1.0000]
+[0.1006, 0.1006, 1.0000, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are: 
+User1 and User2, 
+User3 and User4 
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are: 
+User1 and User3, 
+User1 and User4, 
+User2 and User3, 
+User2 and User4 
+with similarity score of 0.1006
+
+
+
+PART 12) +++RUNNING TESTCASE3+++
+Marks Deductions here: 
+Enter the name of input file? 
+
+
+userUserMatrix is:
+[1.0000, 0.1082, 0.1082, 0.1082, 1.0000]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[0.1082, 1.0000, 1.0000, 1.0000, 0.1082]
+[1.0000, 0.1082, 0.1082, 0.1082, 1.0000]
+
+
+The most similar pairs of users from above userUserMatrix are: 
+User1 and User5, 
+User2 and User3, 
+User2 and User4, 
+User3 and User4 
+with similarity score of 1.0000
+
+
+The most dissimilar pairs of users from above userUserMatrix are: 
+User1 and User2, 
+User1 and User3, 
+User1 and User4, 
+User2 and User5, 
+User3 and User5, 
+User4 and User5 
+with similarity score of 0.1082

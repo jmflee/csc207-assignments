@@ -1,0 +1,239 @@
++++ASSIGNMENT1 MARK DETAIL+++
+Your mark out of 10 is: [  8 :/10] 
+
+
+
+PART 1) +++SVN CHECKOUT ON YOUR ASSIGNMENT1+++
+A    207Assignment1/crcCards
+A    207Assignment1/crcCards/directory.txt
+A    207Assignment1/crcCards/cd.txt
+A    207Assignment1/crcCards/echoAppend.txt
+A    207Assignment1/crcCards/mkdir.txt
+A    207Assignment1/crcCards/cat.txt
+A    207Assignment1/crcCards/echoNew.txt
+A    207Assignment1/crcCards/pwd.txt
+A    207Assignment1/crcCards/ls.txt
+A    207Assignment1/crcCards/file.txt
+A    207Assignment1/crcCards/get.txt
+A    207Assignment1/crcCards/cp.txt
+A    207Assignment1/crcCards/mv.txt
+A    207Assignment1/crcCards/JShell
+A    207Assignment1/src
+A    207Assignment1/src/a1
+A    207Assignment1/src/a1/JShell.java
+Checked out revision 25.
+
+
+
+PART 2) +++SVN COMMIT LOGS ARE+++
+Marks Deductions here (-.5 max): 
+------------------------------------------------------------------------
+r25 | zelenenk@UTORONTO.CA | 2015-10-13 21:03:10 -0400 (Tue, 13 Oct 2015) | 1 line
+
+added a few more classes
+------------------------------------------------------------------------
+r24 | zelenenk@UTORONTO.CA | 2015-10-13 16:53:02 -0400 (Tue, 13 Oct 2015) | 1 line
+
+implemented exit command
+------------------------------------------------------------------------
+r23 | zelenenk@UTORONTO.CA | 2015-10-13 16:38:47 -0400 (Tue, 13 Oct 2015) | 1 line
+
+added JShell crc card.
+------------------------------------------------------------------------
+r22 | leejos14@UTORONTO.CA | 2015-10-13 16:28:45 -0400 (Tue, 13 Oct 2015) | 1 line
+
+Removed an unused import
+------------------------------------------------------------------------
+r21 | leejos14@UTORONTO.CA | 2015-10-12 20:36:28 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Changed some formatting for the last comment
+------------------------------------------------------------------------
+r20 | leejos14@UTORONTO.CA | 2015-10-12 20:34:52 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Added more comments
+------------------------------------------------------------------------
+r19 | leejos14@UTORONTO.CA | 2015-10-12 13:24:32 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Edited more syntax in the crc cards
+------------------------------------------------------------------------
+r18 | leejos14@UTORONTO.CA | 2015-10-12 13:19:43 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Changed does to doesn't in the second bullet point
+------------------------------------------------------------------------
+r17 | leejos14@UTORONTO.CA | 2015-10-12 13:14:00 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Edited the syntax and wording of the crc cards
+------------------------------------------------------------------------
+r16 | zelenenk@UTORONTO.CA | 2015-10-12 13:10:51 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Added comments, added echo command with 3 arguments while on a skype call with leejos14
+------------------------------------------------------------------------
+r15 | leejos14@UTORONTO.CA | 2015-10-12 13:08:03 -0400 (Mon, 12 Oct 2015) | 1 line
+
+Added in hidden responsibilities for some crc cards
+------------------------------------------------------------------------
+r14 | zelenenk@UTORONTO.CA | 2015-10-12 12:54:58 -0400 (Mon, 12 Oct 2015) | 1 line
+
+JShell mimics handout, needs comments and code cleanup.
+------------------------------------------------------------------------
+r13 | leejos14@UTORONTO.CA | 2015-10-11 23:01:11 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Tried to complete the JShell.java file
+------------------------------------------------------------------------
+r12 | zelenenk@UTORONTO.CA | 2015-10-11 21:37:31 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Made the program read inputs forever, thinks every input is an invalid command until more commands are added.
+------------------------------------------------------------------------
+r11 | leejos14@UTORONTO.CA | 2015-10-11 21:27:18 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Changed class name to exit after realizing jshell is a java terminal
+------------------------------------------------------------------------
+r10 | leejos14@UTORONTO.CA | 2015-10-11 21:16:06 -0400 (Sun, 11 Oct 2015) | 2 lines
+
+-Decided on which classes collaborate with who while on a skype call with Taras
+-The commit will only show leejos14 but it was a joint effort between zelenenk because we're not anti-social enough to do this assignment like piece by piece
+------------------------------------------------------------------------
+r9 | leejos14@UTORONTO.CA | 2015-10-11 20:50:40 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Fixed English syntax
+------------------------------------------------------------------------
+r8 | zelenenk@UTORONTO.CA | 2015-10-11 20:39:59 -0400 (Sun, 11 Oct 2015) | 1 line
+
+added bulletpoints..
+------------------------------------------------------------------------
+r7 | zelenenk@UTORONTO.CA | 2015-10-11 20:37:25 -0400 (Sun, 11 Oct 2015) | 1 line
+
+removed typo text file
+------------------------------------------------------------------------
+r6 | leejos14@UTORONTO.CA | 2015-10-11 20:36:20 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Cahnged files to .txt format
+------------------------------------------------------------------------
+r5 | leejos14@UTORONTO.CA | 2015-10-11 20:34:10 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Added in 5 crc cards (echoNew, echoAppend, get, cat and cp)
+------------------------------------------------------------------------
+r4 | zelenenk@UTORONTO.CA | 2015-10-11 20:32:07 -0400 (Sun, 11 Oct 2015) | 1 line
+
+added crc cards for cd, exit, ls, mcdir, mv, pwd
+------------------------------------------------------------------------
+r3 | leejos14@UTORONTO.CA | 2015-10-11 17:42:31 -0400 (Sun, 11 Oct 2015) | 1 line
+
+Filled in honor code
+------------------------------------------------------------------------
+r2 | attarwal@UTORONTO.CA | 2015-10-04 19:30:31 -0400 (Sun, 04 Oct 2015) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+r1 | attarwal@UTORONTO.CA | 2015-10-04 19:30:30 -0400 (Sun, 04 Oct 2015) | 1 line
+
+Starter code by instructor
+------------------------------------------------------------------------
+
+
+
+Part 3) +++Work Distribution of Team Members+++
+On JShell.java
+     18 attarwal@U
+     32 leejos14@U
+     20 zelenenk@U
+On CRC Cards
+     78 leejos14@U
+     59 zelenenk@U
+
+
+
+PART 3) +++FOLLOWING LINES ARE GREATER THAN 80 CHARACTERS+++
+Marks Deductions here (-.5 max): 
+
+
+
+PART 4) +++HONOR CODE?+++
+Marks Deductions here (-2 max): 
+// **********************************************************
+// Assignment1:
+
+// Student1: Joseph Lee
+// UTOR user_name: leejos14
+// UT Student #: 1001175346
+// Author: Joseph Lee
+//
+// Student2: Taras Zelenenkyy
+// UTOR user_name: zelenenk
+// UT Student #: 1001400307
+// Author: Taras Zelenenkyy
+//
+//
+
+
+
+PART 5) +++IDE FILES+++
+Marks Deductions here (-.5 max): 
+Good!, You have no IDE files into your SVN repository
+
+
+
+PART 6) +++COMMENTS IN Jshell.java
+Marks Deductions here (-.5 max): 
+//
+// Honor Code: I pledge that this program represents my own
+// program code and that I have coded on my own. I received
+// help from no one in designing and debugging my program.
+// I have also read the plagiarism section in the course info
+// sheet of CSC 207 and understand the consequences.
+// *********************************************************
+    String input = "";// first input
+    // array of all accepted commands
+    // number of arguments for each corresponding commands
+    while (0<1) {// read forever
+      System.out.print("/# ");// path
+      input = objReader.readLine();// input
+      String commands[] = input.split("\\s+");// splits up commands
+            && arguments[user] == commands.length - 1) {// command search
+          System.out.println(inputs[user]);// command
+            tail = tail + commands[arg + 1] + " "; // putting arguments together
+            System.out.print(tail + "\n");// printing arguments
+      if (!valid && !input.replace(" ", "").equals("")) { // ignores "return as
+                                                          // an invalid command
+
+
+
+PART 7) +++COMPILING YOUR CODE+++
+Marks Deductions here(-3 max): 
+
+
+
+Part 8) +++RUNNING YOUR CODE+++
+Marks Deductions here (-.2 for each failed test case): 
+
+
+TestCase1: mkdir                   xyz
+TestCase2: xyz abc
+TestCase3: cd dir1 dir2
+TestCase4: ls   
+TestCase5: mv dir1
+Actual Output from your program:
+/# mkdir
+xyz 
+/# Invalid command, please try again
+/# Invalid command, please try again
+/# ls
+/# Invalid command, please try again
+/# 
+
+
+PART 9) +++CRC Cards+++
+Marks Deductions here (-7 max): -2
+Feedback from TA is the following:
+The responsibilities listed in some of the commands are a bit close to implementation details, e.g., you describe error handling and in cat. -1
+
+There are Directory and File classes. You may want to consider making Directory
+a special case of File, which it effectively is in a real UNIX file system. -0.5
+
+Use a Command superclass from which other command classes are derived.
+
+The mv command shouldn't really copy a file, merely change directory entries,
+in order to reduce I/O. (Consider how long mv would take on a large file if you
+actually copied it and then deleted the old file, and that this could also
+cause you to run out of disk space if the file was bigger than the free space
+available.) Also, should mv colloborate with anything? Perhaps cp? -0.5

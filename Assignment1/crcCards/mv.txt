@@ -1,0 +1,12 @@
+Class Name: Move
+Parent class: Copy
+Subclasses: None
+
+Responsibilities:
+*Makes a duplicate of the file and moves it to a new location removing the old
+version of the file.
+*Returns an error if the OLDFILE does not exist in the directory
+*Returns an error if the NEWFILE cannot be found in the directory
+*Returns error if there aren't two arguments (OLDFILE, NEWFILE).
+Collaborators: 
+*ListContent

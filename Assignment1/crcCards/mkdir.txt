@@ -1,0 +1,10 @@
+Class Name: Mkdir
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+*Create a directory that the user inputs after the space.
+*Returns an error if the DIR name doesn't exists in the directory
+*Returns error if name of directory is not specified. (DIR)
+Collaborators: 
+*ListContents

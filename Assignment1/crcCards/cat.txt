@@ -1,0 +1,10 @@
+Class name: Cat
+Parent class (if any): None
+Subclasses (if any): None
+
+Responsibilities:
+*Displays the contents of the file specified by the parameter FILE in the shell
+*Returns an error if FILE is not found in the directory
+*Returns an error if there isn't one parameter (FILE)
+Collaborators:
+*ListContents

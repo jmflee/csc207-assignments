@@ -1,0 +1,8 @@
+Class Name: ListContents
+Parent class: None
+Subclasses: PrintWorkingDirectory
+
+Responsibilities:
+*Prints the files and folders in the current directory.
+Collaborators: 
+*None

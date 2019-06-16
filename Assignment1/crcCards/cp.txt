@@ -1,0 +1,12 @@
+Class name: Copy
+Parent class (if any): None
+Subclasses (if any): Move
+
+Responsibilities:
+*Makes a duplicate of file specified by the parameter OLDFILE
+*Returns an error if OLDFILE doesn't exist in the directory
+*Moves the duplicate file to a new file specified by the parameter NEWFILE
+*Returns an error if NEWFILE doesn't exist in the directory
+*Returns an error if there isn't two parameters (OLDFILE, NEWFILE)
+Collaborators:
+*ListContent

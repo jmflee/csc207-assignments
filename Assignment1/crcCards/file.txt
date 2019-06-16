@@ -1,0 +1,17 @@
+Class Name: File
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+*Holds all the files that are not folders.
+*Sends files to other classes to be processed.
+*Keep track of where each file is.
+Collaborators: 
+*cat
+*cp
+*mv
+*echoAppend
+*echoNew
+*get
+*ls
+*directory
