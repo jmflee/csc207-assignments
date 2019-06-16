@@ -1,0 +1,25 @@
+What did I do last time?
+    - Commented cd
+    - Commented mkdir
+    - Reformatted most of mkdir
+    - Reformatted most of cd
+    - Finished CurrentDir 
+    - Finished Tree
+    - Helped with test cases
+    - Added doc strings to most methods
+    - Created FormatMe class helper for mkdir
+    - Tested Mkdir in Jshell excessively
+    - Tested cd in Jshell excessively
+    - Scrapped PushPopDir class
+	- Created pushd class
+	- Created popd class
+
+What do I plan to do now?
+    - recode Ls
+    - comment ls
+    - recode popd and pushd if needed
+    - comment pop and push
+    - make ls output for easy testcases
+
+Am I blocked on anything?
+    - singleton of push and pop dir seems less efficient.

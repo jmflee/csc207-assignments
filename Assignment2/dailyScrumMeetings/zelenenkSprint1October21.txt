@@ -1,0 +1,12 @@
+What did I do last time?
+    - modified Tree class
+    - worked on CurrentDir class
+    - worked on MkDir class
+    - brainstormed design ideas for directory related classes
+
+What do I plan to do now?
+    - implement going up while moving directories 
+    - work on new tasks for sprint 2
+
+Am I blocked on anything?
+    - Need CurrentDir to go back up in directory to complete MkDir class

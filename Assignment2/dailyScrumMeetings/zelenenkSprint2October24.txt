@@ -1,0 +1,13 @@
+What did I do last time?
+    - Finished Tree class, added comments
+    - Finished CurrentDir, added comments
+    - Finished MkDir, added comments
+    - Implemented MkDir into JShell
+
+What do I plan to do now?
+    - Do pushd command
+    - Start popd command
+    - Test MkDir and CurrentDir classes
+
+Am I blocked on anything?
+    - Need Stack to start pushd and popd

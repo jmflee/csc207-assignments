@@ -1,0 +1,14 @@
+What did I do this time?
+    - Fixed recursively displaying all directories
+    - The -r command now works for jshell
+    - Created the pathchecker class and reflection class to simplify code
+    - Finished the ! number command
+
+What do I plan to do now?
+    - Implement absolute paths and relative paths into my code
+    - Create test cases for recusive ls
+    - Have ls take in multiple arguments
+    - Add test cases for the ! command
+
+Am I blocked on anything?
+	- Adding absolute path

@@ -1,0 +1,13 @@
+What did I do last time?
+    - Tested Cd
+    - Tested PushPopDir
+    - Reformatted most inputs
+    - Tested Pwd
+
+What do I plan to do now?
+    - comment Cd
+    - comment PushPopDir
+    - Test all commands in Jshell excessively 
+
+Am I blocked on anything?
+    - Jshell is not fully complete.

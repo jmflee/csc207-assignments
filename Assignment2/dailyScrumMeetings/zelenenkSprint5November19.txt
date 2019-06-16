@@ -1,0 +1,12 @@
+What did I do last time?
+    - Cp Fixed 
+    - MV fixed
+    - Started testcases for CP
+    - Started testcases for MV
+What do I plan to do now?
+    - Fix bugs with copying files
+    - Finish testcases for cp
+    - Finish testcases for mv
+
+Am I blocked on anything?
+    - nothing this week

@@ -1,0 +1,10 @@
+What did I do last time?
+    - Recoded cp
+    - Started coding mv
+    - Made mv inherit cp
+What do I plan to do now?
+    - Code mv
+    - Flush out bugs from mv
+
+Am I blocked on anything?
+    - nothing this week

@@ -1,0 +1,13 @@
+What did I do last time?
+    - Finished Cd class
+    - Finished PushPopDir class
+    - Helped with Ls class
+    - Helped with Pwd class
+
+What do I plan to do now?
+    - Test and comment Cd
+    - Test and comment PushPopDir
+    - Optimize code on CurrentDir
+
+Am I blocked on anything?
+    - No way to implement classes in jShell yet.

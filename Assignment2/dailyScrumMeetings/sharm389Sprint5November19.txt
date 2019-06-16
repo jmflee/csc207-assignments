@@ -1,0 +1,12 @@
+What did I do this time?
+    - Added absolute paths for recursion into ls
+    - Fixed some old test cases
+    - ls now takes in multiple arguments
+
+What do I plan to do now?
+    - Add test cases for ls
+    - Add test cases for ! command
+    - Help with grep test cases and grep command
+
+Am I blocked on anything?
+	- Recursion for grep
